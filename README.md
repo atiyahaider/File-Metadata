@@ -8,6 +8,3 @@
 
 ### Usage :
 * Go to the main page, and upload a file using the provided form.
-
-### Hint:
-* To handle the file uploading you should use the [multer](https://www.npmjs.com/package/multer) npm package.
